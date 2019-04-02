@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginLoadTest", "PluginLoadTest\PluginLoadTest.csproj", "{D145B38E-3E34-4A71-809C-2B07B52AED32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlugin.SpecFlowPlugin", "MyPlugin.SpecflowPlugin\MyPlugin.SpecFlowPlugin.csproj", "{4991AD29-75D5-439F-A0AC-EDE6D8A126DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D145B38E-3E34-4A71-809C-2B07B52AED32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D145B38E-3E34-4A71-809C-2B07B52AED32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D145B38E-3E34-4A71-809C-2B07B52AED32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D145B38E-3E34-4A71-809C-2B07B52AED32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4991AD29-75D5-439F-A0AC-EDE6D8A126DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4991AD29-75D5-439F-A0AC-EDE6D8A126DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4991AD29-75D5-439F-A0AC-EDE6D8A126DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4991AD29-75D5-439F-A0AC-EDE6D8A126DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954CAA3A-DC4B-41BB-AFA1-D22762148C69}
+	EndGlobalSection
+EndGlobal
