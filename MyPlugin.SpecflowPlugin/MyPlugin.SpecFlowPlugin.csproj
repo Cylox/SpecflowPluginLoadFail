@@ -74,19 +74,23 @@
     <Reference Include="System.Xml" />
     <Reference Include="TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
       <HintPath>..\packages\SpecFlow.3.0.188\lib\net45\TechTalk.SpecFlow.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="TechTalk.SpecFlow.Generator, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
       <HintPath>..\packages\SpecFlow.CustomPlugin.3.0.188\lib\net45\TechTalk.SpecFlow.Generator.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="TechTalk.SpecFlow.Parser, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
       <HintPath>..\packages\SpecFlow.CustomPlugin.3.0.188\lib\net45\TechTalk.SpecFlow.Parser.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="TechTalk.SpecFlow.Utils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
       <HintPath>..\packages\SpecFlow.CustomPlugin.3.0.188\lib\net45\TechTalk.SpecFlow.Utils.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27, processorArchitecture=MSIL">
       <HintPath>..\packages\Utf8Json.1.3.7\lib\net47\Utf8Json.dll</HintPath>
